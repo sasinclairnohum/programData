@@ -1,5 +1,5 @@
 {
-   "John" : "flow1",
-   "Jack" : "flow2",
-   "Jill" : "flow3"
+   "admin" : "password",
+   "user1" : "JOE",
+   "Jill" : "flowers"
 }
